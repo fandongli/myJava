@@ -6,5 +6,5 @@
  */
 //This is a new class
 public class CreatePage {
-
+//verify patch
 }
